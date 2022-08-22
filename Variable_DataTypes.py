@@ -1,6 +1,6 @@
 a = 1
 b = 1.15
-c = True
+c = 10>3
 d = "Dhanuka"
 e = 1j
 f = ["apple","banana","cherry"]
