@@ -21,5 +21,6 @@ x = 5
 y = 10
 z = 0.0
 print(bool(x == y),bool(x))
-
+print(50 / 5)
+print(9 // 2)
 
